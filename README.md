@@ -1,4 +1,4 @@
-# StyleGan2
+# StyleGan2 in TensorFlow2
 Unofficial implementation of StyleGan2 paper
 
 This small GAN was trained for about 250k updates with batch size of 8 on 15k images from WikiArt dataset.
