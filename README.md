@@ -6,5 +6,11 @@ This small GAN was trained for about 250k updates with batch size of 8 on 15k im
 Random set of outputs:
 
 <div align="center">
-  <img src="https://github.com/nekitmm/starnet/blob/master/for_git/1.jpg"><br><br>
+  <img src="collage2.png"><br><br>
+</div>
+
+A few cherry-picked better set of examples:
+
+<div align="center">
+  <img src="cherry2.png"><br><br>
 </div>
